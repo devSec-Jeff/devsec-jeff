@@ -3,7 +3,6 @@
 <!--
 **devSec-Jeff/devsec-jeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hello there!
 
 - 🔭 I’m currently working on creating a portfolio website to showcase my skills and expertise...
 - 🌱 I’m currently learning back-end software engineering
