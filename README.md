@@ -1,3 +1,5 @@
+![I am Geoffrey Pkorkor](https://github.com/user-attachments/assets/75960125-c69c-4d64-9cae-2c101b10c980)
+
 ## Hi there 👋
 
 <!--
