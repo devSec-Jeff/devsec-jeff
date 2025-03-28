@@ -1,4 +1,5 @@
-![I am Geoffrey Pkorkor (350 x 150 px)](https://github.com/user-attachments/assets/397c37d7-f0ca-487c-93ae-4fcf90003911)
+![I am Geoffrey Pkorkor (25 × 20 cm)](https://github.com/user-attachments/assets/dbbfa3f8-5b46-43ae-84dd-268ca8c51520)
+
 
 
 
